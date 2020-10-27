@@ -1,0 +1,20 @@
+date        - date
+tput clear  - clear screen
+cal         - Calender (you can also see specific calender by specifying month and year (cal 08 2020)
+who         - List of members connected to system
+ps	    - Task manager in linux
+ls	    - List of files in directory
+cat	    - use to create or concat a file
+wc	    - use to create or write in file 
+pwd	    - current directory
+bc	    - bc to see discription of linux
+tty	    - path of linux installed
+passwd      - Password change (ban in this system :))
+DIRECTORY RELATED:
+mkdir       - Use to create directory
+cd	    - use to navigate between directories
+rmdir	    - use to remove directory
+
+
+
+FILE RELATED COMMAND:
