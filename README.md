@@ -1,1 +1,0 @@
-# HacktoberFest2020
